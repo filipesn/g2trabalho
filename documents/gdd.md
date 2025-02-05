@@ -7,8 +7,7 @@
 
 ## Nome do Grupo
 
-#### Nomes dos integrantes do grupo
-
+#### Eduardo Khaled, Filipe Nunes, George Kapelius, Lívia Negrini, Nathalia Figueredo e Rafael Campos
 
 
 ## Sumário
