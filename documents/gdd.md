@@ -69,17 +69,33 @@
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
-*Posicione aqui a lista de requisitos levantados para o projeto, sejam pedidos do parceiro ou invenções do grupo. Descreva-os de forma objetiva, de modo que seja possível entender claramente como implementá-los tecnicamente.*
-
-*ATUALIZE ESTA SEÇÃO SEMPRE QUE ALGUM REQUISITO MUDAR EM SEU PROJETO*
-
-*Exemplo de tabela de requisitos*
 \# | Requisito  
 --- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+1 | Desenvolver tela de início
+    Elaborar o design da tela
+    Criar botão de início
+    Elaborar o posicionamento na tela
+    Fazer lógica sobre a ação responsável ao clicar
+    Botão 
+2 | Escolher personagem
+	Botões para personalização de personagens.
+    Elaborar os design s
+    Elaborar o posicionamento na tela
+    Fazer lógica sobre a ação responsável ao clicar
+
+3 | Desenvolver Design responsivo que se adapta a diferentes dispositivos
+4 | Implementar sistema de pontuação
+4 | Desenvolver tela final com feedback
+4 | Criar cenário diferentes e complexos
+4 | Criar diferentes níveis de dificuldade para atender necessidade de diferentes faixas etárias
+4 | Realizar feedback detalhado e personalizado, fornecendo dicas e explicações sobre as respostas do jogadores
+    Incluir mensagens de incentivo e reforço positivo para motivar o aprendizado
+    Incluir relatórios de progresso
+4 | Incluir dicas
+4 | Garantir acessibilidade em todas as telas
+    Suporte para leitores de tela para acessibilidade.
+    Opções de personalização para alunos com deficiência visual ou dificuldades motoras.
+
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
